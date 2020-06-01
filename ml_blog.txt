@@ -1,0 +1,32 @@
+Link to the post: https://medium.com/@mohd.fawad1999/explain-machine-learning-to-your-granny-in-an-easy-way-361270c499ca?sk=86fd09264f286d0fe1815d013d6e5075
+
+---
+
+Explain Machine Learning to your Granny in an Easy way
+Machine Learning is the science of getting computers to act without being explicitly programmed. It is a subset of Artificial Intelligence (AI), and consists of more advanced techniques and models that enable computers to figure things out from the data. Deep Learning is the newer area of Machine Learning that uses multi-layered artificial neural networks to deliver high accuracy in tasks such as object detection, speech recognition, language translation and other recent breakthroughs that you hear in the news. Deep Learning is capable of automatically learning/extracting/translating the features from datasets such as images, videos or text, without using traditional hand-coded rules.
+
+
+---
+
+Types of Machine Learning:
+In Machine Learning, all the different models generally fall into three different categories:
+
+  Supervised Learning: It involves an output label associated with each data in the datasets. The output can be discrete or categorical. Almost all the learning is supervised. An example for this type of learning is of a machine learning system that can learn which emails are 'spam' and which are 'not spam'. Techniques like linear or logistic regressions and decision tree classification fall under this category.
+
+  Unsupervised Learning: This is a type of learning where your data typically has no known output labels. This is useful when there is no example datasets with known answers. The most popular types under unsupervised learning are clustering and association.
+
+  Reinforcement Learning: Here in this type of learning, instead of telling the child which toy to put in which box, you reward the child with a 'big hug' when the child makes the right choice and you make a 'sad face' when the child makes the wrong action. After a few iterations, the child very quickly learns which toy to go into which box. Such an idea is implemented in the concept of Reinforcement Learning.
+
+---
+
+Applications of Machine Learning:
+
+Here are some of the real world Machine Learning Applications, let's see them one by one.
+
+  Image Recognition: It is one of the most common machine learning applications. There are many situations where you can classify the object as a digital image. For digital images, the measurements describe the outputs of each pixel in the image. 
+
+  Speech Recognition: It is the translation of spoken words into text. It is also known as "automatic speech recognition" (ASR), "computer speech recognition", or "speech to text" (STT). In speech recognition, a software application recognizes spoken words. The measurements in this Machine Learning application might be a set of numbers that represent the speech signal. We can segment the signal into portions that contain distinct words or phonemes. In each segment, we can represent the speech signal by the intensities or energy in different time-frequency bands.
+
+  Medical Diagnosis: Machine Learning provides methods, techniques, and tools that can help in solving diagnostic and prognostic problems in a variety of medical domains. It is used in the prediction of disease progression, for the extraction of medical knowledge for outcomes research, for therapy planning and support, and for overall patient management. In medical diagnosis, the main interest is in establishing the existence of a disease followed by its accurate identification. There is a separate category for each disease under consideration and one category for cases where no disease is present. Here, machine learning improves the accuracy of medical diagnosis by analyzing data of patients.
+
+---
